@@ -1,0 +1,15 @@
+A:\Application Score2\SCORE2\SCORE2\bin\Debug\net6.0\SCORE2.exe
+A:\Application Score2\SCORE2\SCORE2\bin\Debug\net6.0\SCORE2.deps.json
+A:\Application Score2\SCORE2\SCORE2\bin\Debug\net6.0\SCORE2.runtimeconfig.json
+A:\Application Score2\SCORE2\SCORE2\bin\Debug\net6.0\SCORE2.dll
+A:\Application Score2\SCORE2\SCORE2\bin\Debug\net6.0\ref\SCORE2.dll
+A:\Application Score2\SCORE2\SCORE2\bin\Debug\net6.0\SCORE2.pdb
+A:\Application Score2\SCORE2\SCORE2\obj\Debug\net6.0\SCORE2.csproj.AssemblyReference.cache
+A:\Application Score2\SCORE2\SCORE2\obj\Debug\net6.0\SCORE2.GeneratedMSBuildEditorConfig.editorconfig
+A:\Application Score2\SCORE2\SCORE2\obj\Debug\net6.0\SCORE2.AssemblyInfoInputs.cache
+A:\Application Score2\SCORE2\SCORE2\obj\Debug\net6.0\SCORE2.AssemblyInfo.cs
+A:\Application Score2\SCORE2\SCORE2\obj\Debug\net6.0\SCORE2.csproj.CoreCompileInputs.cache
+A:\Application Score2\SCORE2\SCORE2\obj\Debug\net6.0\SCORE2.dll
+A:\Application Score2\SCORE2\SCORE2\obj\Debug\net6.0\ref\SCORE2.dll
+A:\Application Score2\SCORE2\SCORE2\obj\Debug\net6.0\SCORE2.pdb
+A:\Application Score2\SCORE2\SCORE2\obj\Debug\net6.0\SCORE2.genruntimeconfig.cache
