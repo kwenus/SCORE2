@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "K:\\MSVS\\SCORE2\\SCORE2\\SCORE2\\SCORE2.csproj": {}
+    "A:\\Application Score2\\SCORE2\\SCORE2\\SCORE2.csproj": {}
   },
   "projects": {
-    "K:\\MSVS\\SCORE2\\SCORE2\\SCORE2\\SCORE2.csproj": {
+    "A:\\Application Score2\\SCORE2\\SCORE2\\SCORE2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "K:\\MSVS\\SCORE2\\SCORE2\\SCORE2\\SCORE2.csproj",
+        "projectUniqueName": "A:\\Application Score2\\SCORE2\\SCORE2\\SCORE2.csproj",
         "projectName": "SCORE2",
-        "projectPath": "K:\\MSVS\\SCORE2\\SCORE2\\SCORE2\\SCORE2.csproj",
+        "projectPath": "A:\\Application Score2\\SCORE2\\SCORE2\\SCORE2.csproj",
         "packagesPath": "C:\\Users\\kwenu\\.nuget\\packages\\",
-        "outputPath": "K:\\MSVS\\SCORE2\\SCORE2\\SCORE2\\obj\\",
+        "outputPath": "A:\\Application Score2\\SCORE2\\SCORE2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\kwenu\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -54,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }
