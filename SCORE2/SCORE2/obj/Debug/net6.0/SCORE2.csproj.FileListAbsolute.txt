@@ -13,3 +13,18 @@ A:\Application Score2\SCORE2\SCORE2\obj\Debug\net6.0\SCORE2.dll
 A:\Application Score2\SCORE2\SCORE2\obj\Debug\net6.0\ref\SCORE2.dll
 A:\Application Score2\SCORE2\SCORE2\obj\Debug\net6.0\SCORE2.pdb
 A:\Application Score2\SCORE2\SCORE2\obj\Debug\net6.0\SCORE2.genruntimeconfig.cache
+K:\MSVS\SCORE2\SCORE2\SCORE2\bin\Debug\net6.0\SCORE2.exe
+K:\MSVS\SCORE2\SCORE2\SCORE2\bin\Debug\net6.0\SCORE2.deps.json
+K:\MSVS\SCORE2\SCORE2\SCORE2\bin\Debug\net6.0\SCORE2.runtimeconfig.json
+K:\MSVS\SCORE2\SCORE2\SCORE2\bin\Debug\net6.0\SCORE2.dll
+K:\MSVS\SCORE2\SCORE2\SCORE2\bin\Debug\net6.0\ref\SCORE2.dll
+K:\MSVS\SCORE2\SCORE2\SCORE2\bin\Debug\net6.0\SCORE2.pdb
+K:\MSVS\SCORE2\SCORE2\SCORE2\obj\Debug\net6.0\SCORE2.csproj.AssemblyReference.cache
+K:\MSVS\SCORE2\SCORE2\SCORE2\obj\Debug\net6.0\SCORE2.GeneratedMSBuildEditorConfig.editorconfig
+K:\MSVS\SCORE2\SCORE2\SCORE2\obj\Debug\net6.0\SCORE2.AssemblyInfoInputs.cache
+K:\MSVS\SCORE2\SCORE2\SCORE2\obj\Debug\net6.0\SCORE2.AssemblyInfo.cs
+K:\MSVS\SCORE2\SCORE2\SCORE2\obj\Debug\net6.0\SCORE2.csproj.CoreCompileInputs.cache
+K:\MSVS\SCORE2\SCORE2\SCORE2\obj\Debug\net6.0\SCORE2.dll
+K:\MSVS\SCORE2\SCORE2\SCORE2\obj\Debug\net6.0\ref\SCORE2.dll
+K:\MSVS\SCORE2\SCORE2\SCORE2\obj\Debug\net6.0\SCORE2.pdb
+K:\MSVS\SCORE2\SCORE2\SCORE2\obj\Debug\net6.0\SCORE2.genruntimeconfig.cache

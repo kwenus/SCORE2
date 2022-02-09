@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "A:\\Application Score2\\SCORE2\\SCORE2\\SCORE2.csproj",
+      "projectUniqueName": "K:\\MSVS\\SCORE2\\SCORE2\\SCORE2\\SCORE2.csproj",
       "projectName": "SCORE2",
-      "projectPath": "A:\\Application Score2\\SCORE2\\SCORE2\\SCORE2.csproj",
+      "projectPath": "K:\\MSVS\\SCORE2\\SCORE2\\SCORE2\\SCORE2.csproj",
       "packagesPath": "C:\\Users\\kwenu\\.nuget\\packages\\",
-      "outputPath": "A:\\Application Score2\\SCORE2\\SCORE2\\obj\\",
+      "outputPath": "K:\\MSVS\\SCORE2\\SCORE2\\SCORE2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\kwenu\\AppData\\Roaming\\NuGet\\NuGet.Config",
