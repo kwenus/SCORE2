@@ -16,5 +16,8 @@
         Console.WriteLine("What is your age");
         Age = Convert.ToInt16(Console.ReadLine());
     }
-    public void PrintAll() => Console.WriteLine($"Patient: {FirstName}, {LastName}");
+    public void PrintAll()
+    {
+        Console.WriteLine($"Patient: {FirstName}, {LastName}, {Sex}, {Age}");
+    }
 }
